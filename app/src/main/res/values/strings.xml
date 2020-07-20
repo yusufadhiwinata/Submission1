@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Submission 1</string>
+    <string name="repository">Repository</string>
+    <string name="_1000">1000</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="jake_wharton">Jake Wharton</string>
+    <string name="vetran_utara">Vetran utara</string>
+    <string name="toko_jaya_abadi">Toko Jaya Abadi</string>
+
+
+    <string-array name="username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Pittsburgh, PA, USA</item>
+        <item>New Delhi, India</item>
+        <item>California</item>
+        <item>Sydney, Australia</item>
+        <item>Trondheim, Norway</item>
+        <item>India</item>
+        <item>Kotagede, Yogyakarta, Indonesia</item>
+        <item>Jakarta, Indonesia</item>
+        <item>Bojongsoang - Bandung Jawa Barat</item>
+        <item>Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Google, Inc.</item>
+        <item>MindOrksOpenSource</item>
+        <item>Google</item>
+        <item>Google working on @android</item>
+        <item>Working Group Two</item>
+        <item>AndroidHive | Droid5</item>
+        <item>gojek-engineering</item>
+        <item>KotlinID</item>
+        <item>JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Nusantara Beta Studio</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>56995</item>
+        <item>5153</item>
+        <item>7972</item>
+        <item>14725</item>
+        <item>788</item>
+        <item>18628</item>
+        <item>277</item>
+        <item>178</item>
+        <item>428</item>
+        <item>465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>I’m a master coach, best-selling author and a passionate speaker. I’m the founder of the first man-only hedge fund, special counsellor in many corporations across the globe. I’ve found balance between work and life, now I’m a totally happy person, loving mother.</item>
+        <item>inspiring speaker and writer, and firm investor, but it didn’t come easily. I\'ve gone though hundreds of failures and complicated situations. You can use my previous experience in order not to fall into the same trap.</item>
+        <item>I was born in Kansas, and like little Ellie, I always dreamed that a hurricane would take me somewhere to another country. And once I really ended up in another country - in China, studying at a business school. There I began to travel a lot around Asia in my free time and then moved to work in Munich.</item>
+        <item>People Call Me Sidik I am a CTO in the biggest company in the world, oh i really like my job, i have more and more experience in my lovely work so if you want succes you can follow me and don\'t forget like, comment, subscribe</item>
+        <item>I discovered the world of low-cost airlines and began to fly somewhere and see the world every weekend. Being somewhere in the 15th country, I realized that I had enough experience and knowledge to share with others - and so this blog appeared. Here you will find useful tips, my travel experiences, life hacks and the usual daily thoughts about everything that surrounds me.</item>
+        <item>I am a skilled artist helping you create really beautiful and meaningful things in your niche. My works are aesthetically pleasing in every shape and pattern.</item>
+        <item>I am a Parasite the best movie in the world avengers can loose me cause i am the best picture in oscar, my movie is really emotional philopsopy and life, you must life for your like and don\'t be a parasite for the people.</item>
+        <item>I work with commercial projects of any scale and with private requests. I use the latest tools and creative approaches that help solve a specific business or personal issue.</item>
+        <item>I\'ll be happy to join creative teams to work on young-eyed commercial or social projects. If you think we can create something great together, contact me in any convenient way to discuss the possible cooperation.</item>
+        <item>My name is Doe Jameson and I am a skilled artist presenting unique projects. I work both with businesses and individuals, and always find a non-standard approach to the task.</item>
+    </string-array>
+
+</resources>
